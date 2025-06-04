@@ -22,24 +22,24 @@
 ## Результаты
 
 **Bellman-Ford** took 7676829 [microsec]
-  Path: 10000 4725 2497 701 4637 2706 9225 9610 
-  Length: 29421
+  - Path: 10000 4725 2497 701 4637 2706 9225 9610 
+  - Length: 29421
 
 **Dijkstra (simple)** took 5077109 [microsec]
-  Path: 10000 4725 2497 701 4637 2706 9225 9610 
-  Length: 29421
+  - Path: 10000 4725 2497 701 4637 2706 9225 9610 
+  - Length: 29421
 
 **Dijkstra (heap)** took 4554 [microsec]
-  Path: 10000 4725 2497 701 4637 2706 9225 9610 
-  Length: 29421
+  - Path: 10000 4725 2497 701 4637 2706 9225 9610 
+  - Length: 29421
 
 **A*** took 4505 [microsec]
-  Path: 10000 4725 2497 701 4637 2706 9225 9610 
-  Length: 29421
+  - Path: 10000 4725 2497 701 4637 2706 9225 9610 
+  - Length: 29421
 
 **Floyd-Warshall** took 11439965928 [microsec]
-  Path: 10000 4725 2497 701 4637 2706 9225 9610 
-  Length: 29421
+  - Path: 10000 4725 2497 701 4637 2706 9225 9610 
+  - Length: 29421
 
 ## [Источник графов](https://snap.stanford.edu/data/Oregon-1.html)
 *oregon1_010331.txt.gz* - AS peering information inferred from Oregon route-views from March 31 2001

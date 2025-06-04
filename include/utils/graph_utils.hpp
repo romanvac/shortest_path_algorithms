@@ -6,7 +6,7 @@
 #include <sstream>
 #include <vector>
 #include <chrono>
-#include <algorithm>  // для std::max
+#include <algorithm>
 
 #include "graph.hpp"
 

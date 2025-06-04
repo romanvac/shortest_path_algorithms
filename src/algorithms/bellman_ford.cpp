@@ -1,4 +1,3 @@
-// src/bellman_ford.cpp
 #include <iostream>
 #include <vector>
 #include <limits>
